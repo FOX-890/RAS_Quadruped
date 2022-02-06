@@ -16,5 +16,5 @@ Once Git and GitBash are downloaded, make a file somewhere on your computer and 
 4. Go to the GitHub repository and go to 'Code' at the top right
 5. Copy the HTTPS link it gives you
 6. In the GitBash terminal, type the following (without brackets)
-  > clone <insert link here>
+  > clone \<insert link here\>
 7. This will clone the stuff on the GitHub repository onto your local machine
