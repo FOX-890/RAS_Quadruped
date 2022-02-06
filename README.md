@@ -25,10 +25,10 @@ You should now see all the files currently pushed to the repository on your own 
 ## Working with Git
 Now that the repository is on your machine, there are some steps to make your own changes to the repo.
 Below are some of the necessary git commands you should know:
--'git clone' takes an existing repository and copies it to your machine
--'git status' tells you what files you have modified, what needs to be added, and what is ready to commit
--'git add \<file name\>' adds all modified files to the **staging area**, essentially prepping them for commit
--'git commit' commits your changes to your **local** repository
--'git push' pushes your changes to the **global** repository
--'git pull' pulls any changes that happened in the global repository to your local repository
--'git branch
+-`git clone` takes an existing repository and copies it to your machine
+-`git status` tells you what files you have modified, what needs to be added, and what is ready to commit
+-`git add \<file name\>` adds all modified files to the **staging area**, essentially prepping them for commit
+-`git commit` commits your changes to your **local** repository
+-`git push` pushes your changes to the **global** repository
+-`git pull` pulls any changes that happened in the global repository to your local repository
+-`git branch` 
