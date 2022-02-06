@@ -37,6 +37,7 @@ Below are some of the necessary git commands you should know:
 Branching would only be necessary if you plan to make sweeping changes that you won't want affecting the main.
 
 Once the repository is cloned to your machine, the following is the simplest process to follow to push changes
+#### General pushing process
 - `git pull`
 - `git add .`
 - `git commint -m "Some short message"`
