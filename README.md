@@ -38,10 +38,10 @@ Branching would only be necessary if you plan to make sweeping changes that you 
 
 Once the repository is cloned to your machine, the following is the simplest process to follow to push changes
 #### General pushing process
-- `git pull`
-- `git add .`
-- `git commit -m "Some short message"`
-- `git push`
+1. `git pull`
+2. `git add .`
+3. `git commit -m "Some short message"`
+4. `git push`
 
 `git pull` should be done before you even begin work, ensures your main is up to date.  
 The `.` in `git add` is shorthand for adding every file in your local repo that was changed, specific files can be added as needed.  
