@@ -2,7 +2,7 @@
 ## This file should be updated as needed
 
 # Getting Started
-## The GitHub Repository
+## Cloning the Repository
 First, be sure to download Git and GitBash from the following link: https://git-scm.com/downloads
 
 GitBash provides a better terminal for git commands compared to the windows terminal.
@@ -18,3 +18,6 @@ Once Git and GitBash are downloaded, make a file somewhere on your computer and 
 6. In the GitBash terminal, type the following (without brackets)
   > clone \<insert link here\>
 7. This will clone the stuff on the GitHub repository onto your local machine
+
+You should now see all the files currently pushed to the repository on your own machine.
+***NEVER TOUCH THE .GIT FILE***
