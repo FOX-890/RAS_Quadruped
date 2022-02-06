@@ -47,3 +47,6 @@ Once the repository is cloned to your machine, the following is the simplest pro
 The `.` in `git add` is shorthand for adding every file in your local repo that was changed, specific files can be added as needed.  
 The `-m` flag for `git commit` allows for attaching a message. Make a short message in the quotes with changes.  
 The changes are now saved to your local repo, finalize the process with pushing your changes to global with `git push`.  
+
+# Arduino Introduction
+## The Arduino Dev Board
