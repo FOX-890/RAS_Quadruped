@@ -31,4 +31,13 @@ Below are some of the necessary git commands you should know:
 - `git commit` commits your changes to your **local** repository
 - `git push` pushes your changes to the **global** repository
 - `git pull` pulls any changes that happened in the global repository to your local repository
-- `git branch` 
+- `git branch` branches off the main and all changes do not affect main
+- `git checkout \<branch name\>` jumps to specified branch
+
+Branching would only be necessary if you plan to make sweeping changes that you won't want affecting the main.
+
+Once the repository is cloned to your machine, the following is the simplest process to follow to push changes
+- `git pull`
+- `git add .`
+- `git commint -m "Some short message"`
+- `git push`
