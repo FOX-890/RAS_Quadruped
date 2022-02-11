@@ -4,3 +4,4 @@ with the repo and also for you to make sure it works on your end.
 Please edit this text file in your local directory to the following format:
 Name			Major		Year
 Gabriel Donados		ECE		Junior
+Antonio DeAngelis	ECE		Junior
