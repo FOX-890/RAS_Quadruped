@@ -1,4 +1,5 @@
 # General Arduino Tutorial
+This folder will be built up to contain general information regarding using any Arduino based microcontrollers, as well as some general programming guidance.
 
 ## Setup
 
