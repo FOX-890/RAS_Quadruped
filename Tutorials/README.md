@@ -1,5 +1,9 @@
 # General Arduino Tutorial
-This folder will be built up to contain general information regarding using any Arduino based microcontrollers, as well as some general programming guidance.
+This folder is intended for those with little to no programming or Arduino knowledge as a quick start to some devices being used on the project.
+
+## The Development Board
+Assuming this is your first time laying eyes on an Ardunio-based controller, here is a quick tour around a basic Arduino Uno:  
+* 
 
 ## Setup
 
