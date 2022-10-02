@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=GND Pin=J1-4
+Removed Pin From Net: NetName=GND Pin=J2-4
+Removed Pin From Net: NetName=GND Pin=J3-4
+Removed Pin From Net: NetName=GND Pin=J4-4
+Removed Pin From Net: NetName=GND Pin=J5-4
+Removed Pin From Net: NetName=GND Pin=J6-4
+Removed Pin From Net: NetName=GND Pin=J7-4
+Removed Pin From Net: NetName=GND Pin=J8-4
+Removed Pin From Net: NetName=GND Pin=J9-4
+Removed Pin From Net: NetName=GND Pin=J10-4
+Removed Pin From Net: NetName=GND Pin=J11-4
+Removed Pin From Net: NetName=GND Pin=J12-4
+Removed Pin From Net: NetName=GND Pin=U2-33
+Removed Pin From Net: NetName=GND Pin=U2-34
+Removed Pin From Net: NetName=GND Pin=U2-35
+Removed Pin From Net: NetName=GND Pin=U2-36
+Removed Pin From Net: NetName=GND Pin=U2-37
+Removed Pin From Net: NetName=GND Pin=U2-38
+Removed Pin From Net: NetName=GND Pin=U2-39
+Removed Pin From Net: NetName=GND Pin=U2-40
+Removed Pin From Net: NetName=GND Pin=U2-41
+Removed Pin From Net: NetName=GND Pin=U2-42
+Removed Pin From Net: NetName=GND Pin=U2-43
+Removed Pin From Net: NetName=GND Pin=U2-44
+Removed Pin From Net: NetName=GND Pin=U2-45
+Removed Pin From Net: NetName=GND Pin=U2-46
+Removed Pin From Net: NetName=GND Pin=U2-47
+Removed Pin From Net: NetName=GND Pin=U2-48
+Change Component Designator: OldDesignator= NewDesignator=J13
+Change Component Designator: OldDesignator= NewDesignator=U9
+Change Component Designator: OldDesignator=MPU NewDesignator=J14
+Change Component Designator: OldDesignator=U6 NewDesignator=U7
+Change Component Designator: OldDesignator=U7 NewDesignator=U6
+Added Member To Class: ClassName=U_MPU_Schem Member=Component J13
+Added Member To Class: ClassName=U_MPU_Schem Member=Component J14
+Added Member To Class: ClassName=U_PWM_BoardSchem Member=Component U2 815
+Added Member To Class: ClassName=Main_Board Member=Component U9 ARDUINO MEGA
+Added Room: Name=Main_Board
+Added Room: Name=U_MPU_Schem
+Added Room: Name=U_PWM_BoardSchem

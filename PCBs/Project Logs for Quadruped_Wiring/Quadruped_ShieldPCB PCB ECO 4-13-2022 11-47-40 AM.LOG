@@ -1,0 +1,320 @@
+Removed Pin From Net: NetName=A0_f1 Pin=J1-4
+Removed Pin From Net: NetName=A0_f2 Pin=J2-4
+Removed Pin From Net: NetName=A0_f3 Pin=J3-4
+Removed Pin From Net: NetName=A0_f4 Pin=J4-4
+Removed Pin From Net: NetName=A1_f1 Pin=J5-4
+Removed Pin From Net: NetName=A1_f2 Pin=J6-4
+Removed Pin From Net: NetName=A1_f3 Pin=J7-4
+Removed Pin From Net: NetName=A1_f4 Pin=J8-4
+Removed Pin From Net: NetName=A2_f1 Pin=J9-4
+Removed Pin From Net: NetName=A2_f2 Pin=J10-4
+Removed Pin From Net: NetName=A2_f3 Pin=J11-4
+Removed Pin From Net: NetName=A2_f4 Pin=J12-4
+Removed Pin From Net: NetName=A3_f1 Pin=J13-4
+Removed Pin From Net: NetName=A3_f2 Pin=J14-4
+Removed Pin From Net: NetName=A3_f3 Pin=J15-4
+Removed Pin From Net: NetName=A3_f4 Pin=J16-4
+Removed Pin From Net: NetName=NetJ1_2 Pin=P1-2
+Removed Pin From Net: NetName=NetJ1_3 Pin=P1-3
+Removed Pin From Net: NetName=NetJ2_2 Pin=P2-2
+Removed Pin From Net: NetName=NetJ2_3 Pin=P2-3
+Removed Pin From Net: NetName=NetJ3_2 Pin=P3-2
+Removed Pin From Net: NetName=NetJ3_3 Pin=P3-3
+Removed Pin From Net: NetName=NetJ4_2 Pin=P4-2
+Removed Pin From Net: NetName=NetJ4_3 Pin=P4-3
+Removed Pin From Net: NetName=NetJ5_2 Pin=P5-2
+Removed Pin From Net: NetName=NetJ5_3 Pin=P5-3
+Removed Pin From Net: NetName=NetJ6_2 Pin=P6-2
+Removed Pin From Net: NetName=NetJ6_3 Pin=P6-3
+Removed Pin From Net: NetName=NetJ7_2 Pin=P7-2
+Removed Pin From Net: NetName=NetJ7_3 Pin=P7-3
+Removed Pin From Net: NetName=NetJ8_2 Pin=P8-2
+Removed Pin From Net: NetName=NetJ8_3 Pin=P8-3
+Removed Pin From Net: NetName=NetJ9_2 Pin=P9-2
+Removed Pin From Net: NetName=NetJ9_3 Pin=P9-3
+Removed Pin From Net: NetName=NetJ10_2 Pin=P10-2
+Removed Pin From Net: NetName=NetJ10_3 Pin=P10-3
+Removed Pin From Net: NetName=NetJ11_2 Pin=P11-2
+Removed Pin From Net: NetName=NetJ11_3 Pin=P11-3
+Removed Pin From Net: NetName=NetJ12_2 Pin=P12-2
+Removed Pin From Net: NetName=NetJ12_3 Pin=P12-3
+Removed Pin From Net: NetName=NetJ13_2 Pin=P13-2
+Removed Pin From Net: NetName=NetJ13_3 Pin=P13-3
+Removed Pin From Net: NetName=NetJ14_2 Pin=P14-2
+Removed Pin From Net: NetName=NetJ14_3 Pin=P14-3
+Removed Pin From Net: NetName=NetJ15_2 Pin=P15-2
+Removed Pin From Net: NetName=NetJ15_3 Pin=P15-3
+Removed Pin From Net: NetName=NetJ16_2 Pin=P16-2
+Removed Pin From Net: NetName=NetJ16_3 Pin=P16-3
+Change Component Footprint: Designator=J1 Old Footprint=B4PVHFBBLFSN New Footprint=B4BXHALFSN
+Change Component Footprint: Designator=J2 Old Footprint=B4PVHFBBLFSN New Footprint=B4BXHALFSN
+Change Component Footprint: Designator=J3 Old Footprint=B4PVHFBBLFSN New Footprint=B4BXHALFSN
+Change Component Footprint: Designator=J4 Old Footprint=B4PVHFBBLFSN New Footprint=B4BXHALFSN
+Change Component Footprint: Designator=J5 Old Footprint=B4PVHFBBLFSN New Footprint=B4BXHALFSN
+Change Component Footprint: Designator=J6 Old Footprint=B4PVHFBBLFSN New Footprint=B4BXHALFSN
+Change Component Footprint: Designator=J7 Old Footprint=B4PVHFBBLFSN New Footprint=B4BXHALFSN
+Change Component Footprint: Designator=J8 Old Footprint=B4PVHFBBLFSN New Footprint=B4BXHALFSN
+Change Component Footprint: Designator=J9 Old Footprint=B4PVHFBBLFSN New Footprint=B4BXHALFSN
+Change Component Footprint: Designator=J10 Old Footprint=B4PVHFBBLFSN New Footprint=B4BXHALFSN
+Change Component Footprint: Designator=J11 Old Footprint=B4PVHFBBLFSN New Footprint=B4BXHALFSN
+Change Component Footprint: Designator=J12 Old Footprint=B4PVHFBBLFSN New Footprint=B4BXHALFSN
+Change Component Footprint: Designator=J13 Old Footprint=B4PVHFBBLFSN New Footprint=B4BXHALFSN
+Change Component Footprint: Designator=J14 Old Footprint=B4PVHFBBLFSN New Footprint=B4BXHALFSN
+Change Component Footprint: Designator=J15 Old Footprint=B4PVHFBBLFSN New Footprint=B4BXHALFSN
+Change Component Footprint: Designator=J16 Old Footprint=B4PVHFBBLFSN New Footprint=B4BXHALFSN
+Change Component Comment : Designator=J1 Old Comment=B4P-VH-FB-B_LF__SN_ New Comment=B4B-XH-A_LF__SN_
+Change Component Comment : Designator=J2 Old Comment=B4P-VH-FB-B_LF__SN_ New Comment=B4B-XH-A_LF__SN_
+Change Component Comment : Designator=J3 Old Comment=B4P-VH-FB-B_LF__SN_ New Comment=B4B-XH-A_LF__SN_
+Change Component Comment : Designator=J4 Old Comment=B4P-VH-FB-B_LF__SN_ New Comment=B4B-XH-A_LF__SN_
+Change Component Comment : Designator=J5 Old Comment=B4P-VH-FB-B_LF__SN_ New Comment=B4B-XH-A_LF__SN_
+Change Component Comment : Designator=J6 Old Comment=B4P-VH-FB-B_LF__SN_ New Comment=B4B-XH-A_LF__SN_
+Change Component Comment : Designator=J7 Old Comment=B4P-VH-FB-B_LF__SN_ New Comment=B4B-XH-A_LF__SN_
+Change Component Comment : Designator=J8 Old Comment=B4P-VH-FB-B_LF__SN_ New Comment=B4B-XH-A_LF__SN_
+Change Component Comment : Designator=J9 Old Comment=B4P-VH-FB-B_LF__SN_ New Comment=B4B-XH-A_LF__SN_
+Change Component Comment : Designator=J10 Old Comment=B4P-VH-FB-B_LF__SN_ New Comment=B4B-XH-A_LF__SN_
+Change Component Comment : Designator=J11 Old Comment=B4P-VH-FB-B_LF__SN_ New Comment=B4B-XH-A_LF__SN_
+Change Component Comment : Designator=J12 Old Comment=B4P-VH-FB-B_LF__SN_ New Comment=B4B-XH-A_LF__SN_
+Change Component Comment : Designator=J13 Old Comment=B4P-VH-FB-B_LF__SN_ New Comment=B4B-XH-A_LF__SN_
+Change Component Comment : Designator=J14 Old Comment=B4P-VH-FB-B_LF__SN_ New Comment=B4B-XH-A_LF__SN_
+Change Component Comment : Designator=J15 Old Comment=B4P-VH-FB-B_LF__SN_ New Comment=B4B-XH-A_LF__SN_
+Change Component Comment : Designator=J16 Old Comment=B4P-VH-FB-B_LF__SN_ New Comment=B4B-XH-A_LF__SN_
+Change component parameters: Designator = "J1" ("J1"); Footprint = "B4PVHFBBLFSN"; UniqueID = "\AQYSHSON\VLJSZUBH" ("\AQYSHSON\VLJSZUBH")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/b4b-xh-a-lf-sn/jst-manufacturing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/szlcsc/JST-Sales-America-B4B-XH-A-LF-SN_C144395.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "JST (JAPAN SOLDERLESS TERMINALS)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J2" ("J2"); Footprint = "B4PVHFBBLFSN"; UniqueID = "\AQYSHSON\IJBWVUKX" ("\AQYSHSON\IJBWVUKX")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/b4b-xh-a-lf-sn/jst-manufacturing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/szlcsc/JST-Sales-America-B4B-XH-A-LF-SN_C144395.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "JST (JAPAN SOLDERLESS TERMINALS)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J3" ("J3"); Footprint = "B4PVHFBBLFSN"; UniqueID = "\AQYSHSON\FEHMBJSC" ("\AQYSHSON\FEHMBJSC")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/b4b-xh-a-lf-sn/jst-manufacturing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/szlcsc/JST-Sales-America-B4B-XH-A-LF-SN_C144395.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "JST (JAPAN SOLDERLESS TERMINALS)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J4" ("J4"); Footprint = "B4PVHFBBLFSN"; UniqueID = "\AQYSHSON\LWJGLJXV" ("\AQYSHSON\LWJGLJXV")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/b4b-xh-a-lf-sn/jst-manufacturing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/szlcsc/JST-Sales-America-B4B-XH-A-LF-SN_C144395.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "JST (JAPAN SOLDERLESS TERMINALS)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J5" ("J5"); Footprint = "B4PVHFBBLFSN"; UniqueID = "\AQYSHSON\XTSFSIJN" ("\AQYSHSON\XTSFSIJN")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/b4b-xh-a-lf-sn/jst-manufacturing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/szlcsc/JST-Sales-America-B4B-XH-A-LF-SN_C144395.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "JST (JAPAN SOLDERLESS TERMINALS)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J6" ("J6"); Footprint = "B4PVHFBBLFSN"; UniqueID = "\AQYSHSON\HRJPFQZU" ("\AQYSHSON\HRJPFQZU")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/b4b-xh-a-lf-sn/jst-manufacturing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/szlcsc/JST-Sales-America-B4B-XH-A-LF-SN_C144395.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "JST (JAPAN SOLDERLESS TERMINALS)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J7" ("J7"); Footprint = "B4PVHFBBLFSN"; UniqueID = "\AQYSHSON\PVAUTVKM" ("\AQYSHSON\PVAUTVKM")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/b4b-xh-a-lf-sn/jst-manufacturing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/szlcsc/JST-Sales-America-B4B-XH-A-LF-SN_C144395.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "JST (JAPAN SOLDERLESS TERMINALS)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J8" ("J8"); Footprint = "B4PVHFBBLFSN"; UniqueID = "\AQYSHSON\MAOOVLKV" ("\AQYSHSON\MAOOVLKV")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/b4b-xh-a-lf-sn/jst-manufacturing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/szlcsc/JST-Sales-America-B4B-XH-A-LF-SN_C144395.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "JST (JAPAN SOLDERLESS TERMINALS)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J9" ("J9"); Footprint = "B4PVHFBBLFSN"; UniqueID = "\AQYSHSON\TFHUCJBN" ("\AQYSHSON\TFHUCJBN")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/b4b-xh-a-lf-sn/jst-manufacturing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/szlcsc/JST-Sales-America-B4B-XH-A-LF-SN_C144395.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "JST (JAPAN SOLDERLESS TERMINALS)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J10" ("J10"); Footprint = "B4PVHFBBLFSN"; UniqueID = "\AQYSHSON\FWFTQPKX" ("\AQYSHSON\FWFTQPKX")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/b4b-xh-a-lf-sn/jst-manufacturing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/szlcsc/JST-Sales-America-B4B-XH-A-LF-SN_C144395.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "JST (JAPAN SOLDERLESS TERMINALS)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J11" ("J11"); Footprint = "B4PVHFBBLFSN"; UniqueID = "\AQYSHSON\CDGXCQQM" ("\AQYSHSON\CDGXCQQM")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/b4b-xh-a-lf-sn/jst-manufacturing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/szlcsc/JST-Sales-America-B4B-XH-A-LF-SN_C144395.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "JST (JAPAN SOLDERLESS TERMINALS)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J12" ("J12"); Footprint = "B4PVHFBBLFSN"; UniqueID = "\AQYSHSON\POCQSNXO" ("\AQYSHSON\POCQSNXO")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/b4b-xh-a-lf-sn/jst-manufacturing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/szlcsc/JST-Sales-America-B4B-XH-A-LF-SN_C144395.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "JST (JAPAN SOLDERLESS TERMINALS)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J13" ("J13"); Footprint = "B4PVHFBBLFSN"; UniqueID = "\AQYSHSON\OLKXVPNR" ("\AQYSHSON\OLKXVPNR")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/b4b-xh-a-lf-sn/jst-manufacturing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/szlcsc/JST-Sales-America-B4B-XH-A-LF-SN_C144395.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "JST (JAPAN SOLDERLESS TERMINALS)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J14" ("J14"); Footprint = "B4PVHFBBLFSN"; UniqueID = "\AQYSHSON\UXWDOVBL" ("\AQYSHSON\UXWDOVBL")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/b4b-xh-a-lf-sn/jst-manufacturing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/szlcsc/JST-Sales-America-B4B-XH-A-LF-SN_C144395.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "JST (JAPAN SOLDERLESS TERMINALS)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J15" ("J15"); Footprint = "B4PVHFBBLFSN"; UniqueID = "\AQYSHSON\DOUXFSEJ" ("\AQYSHSON\DOUXFSEJ")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/b4b-xh-a-lf-sn/jst-manufacturing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/szlcsc/JST-Sales-America-B4B-XH-A-LF-SN_C144395.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "JST (JAPAN SOLDERLESS TERMINALS)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J16" ("J16"); Footprint = "B4PVHFBBLFSN"; UniqueID = "\AQYSHSON\BLQEBNWD" ("\AQYSHSON\BLQEBNWD")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/b4b-xh-a-lf-sn/jst-manufacturing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/szlcsc/JST-Sales-America-B4B-XH-A-LF-SN_C144395.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "JST (JAPAN SOLDERLESS TERMINALS)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=A0_f1 Pin=J1-1
+Added Pin To Net: NetName=A0_f2 Pin=J2-1
+Added Pin To Net: NetName=A0_f3 Pin=J3-1
+Added Pin To Net: NetName=A0_f4 Pin=J4-1
+Added Pin To Net: NetName=A1_f1 Pin=J5-1
+Added Pin To Net: NetName=A1_f2 Pin=J6-1
+Added Pin To Net: NetName=A1_f3 Pin=J7-1
+Added Pin To Net: NetName=A1_f4 Pin=J8-1
+Added Pin To Net: NetName=A2_f1 Pin=J9-1
+Added Pin To Net: NetName=A2_f2 Pin=J10-1
+Added Pin To Net: NetName=A2_f3 Pin=J11-1
+Added Pin To Net: NetName=A2_f4 Pin=J12-1
+Added Pin To Net: NetName=A3_f1 Pin=J13-1
+Added Pin To Net: NetName=A3_f2 Pin=J14-1
+Added Pin To Net: NetName=A3_f3 Pin=J15-1
+Added Pin To Net: NetName=A3_f4 Pin=J16-1
+Added Pin To Net: NetName=NetJ1_3 Pin=P1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=P1-3
+Added Pin To Net: NetName=NetJ2_3 Pin=P2-2
+Added Pin To Net: NetName=NetJ2_2 Pin=P2-3
+Added Pin To Net: NetName=NetJ3_3 Pin=P3-2
+Added Pin To Net: NetName=NetJ3_2 Pin=P3-3
+Added Pin To Net: NetName=NetJ4_3 Pin=P4-2
+Added Pin To Net: NetName=NetJ4_2 Pin=P4-3
+Added Pin To Net: NetName=NetJ5_3 Pin=P5-2
+Added Pin To Net: NetName=NetJ5_2 Pin=P5-3
+Added Pin To Net: NetName=NetJ6_3 Pin=P6-2
+Added Pin To Net: NetName=NetJ6_2 Pin=P6-3
+Added Pin To Net: NetName=NetJ7_3 Pin=P7-2
+Added Pin To Net: NetName=NetJ7_2 Pin=P7-3
+Added Pin To Net: NetName=NetJ8_3 Pin=P8-2
+Added Pin To Net: NetName=NetJ8_2 Pin=P8-3
+Added Pin To Net: NetName=NetJ9_3 Pin=P9-2
+Added Pin To Net: NetName=NetJ9_2 Pin=P9-3
+Added Pin To Net: NetName=NetJ10_3 Pin=P10-2
+Added Pin To Net: NetName=NetJ10_2 Pin=P10-3
+Added Pin To Net: NetName=NetJ11_3 Pin=P11-2
+Added Pin To Net: NetName=NetJ11_2 Pin=P11-3
+Added Pin To Net: NetName=NetJ12_3 Pin=P12-2
+Added Pin To Net: NetName=NetJ12_2 Pin=P12-3
+Added Pin To Net: NetName=NetJ13_3 Pin=P13-2
+Added Pin To Net: NetName=NetJ13_2 Pin=P13-3
+Added Pin To Net: NetName=NetJ14_3 Pin=P14-2
+Added Pin To Net: NetName=NetJ14_2 Pin=P14-3
+Added Pin To Net: NetName=NetJ15_3 Pin=P15-2
+Added Pin To Net: NetName=NetJ15_2 Pin=P15-3
+Added Pin To Net: NetName=NetJ16_3 Pin=P16-2
+Added Pin To Net: NetName=NetJ16_2 Pin=P16-3
+Added Pin To Net: NetName=NetJ1_4 Pin=J1-4
+Added Pin To Net: NetName=NetJ1_4 Pin=P1-1
+Added Net: Name=NetJ1_4
+Added Pin To Net: NetName=NetJ2_4 Pin=J2-4
+Added Pin To Net: NetName=NetJ2_4 Pin=P2-1
+Added Net: Name=NetJ2_4
+Added Pin To Net: NetName=NetJ3_4 Pin=J3-4
+Added Pin To Net: NetName=NetJ3_4 Pin=P3-1
+Added Net: Name=NetJ3_4
+Added Pin To Net: NetName=NetJ4_4 Pin=J4-4
+Added Pin To Net: NetName=NetJ4_4 Pin=P4-1
+Added Net: Name=NetJ4_4
+Added Pin To Net: NetName=NetJ5_4 Pin=J5-4
+Added Pin To Net: NetName=NetJ5_4 Pin=P5-1
+Added Net: Name=NetJ5_4
+Added Pin To Net: NetName=NetJ6_4 Pin=J6-4
+Added Pin To Net: NetName=NetJ6_4 Pin=P6-1
+Added Net: Name=NetJ6_4
+Added Pin To Net: NetName=NetJ7_4 Pin=J7-4
+Added Pin To Net: NetName=NetJ7_4 Pin=P7-1
+Added Net: Name=NetJ7_4
+Added Pin To Net: NetName=NetJ8_4 Pin=J8-4
+Added Pin To Net: NetName=NetJ8_4 Pin=P8-1
+Added Net: Name=NetJ8_4
+Added Pin To Net: NetName=NetJ9_4 Pin=J9-4
+Added Pin To Net: NetName=NetJ9_4 Pin=P9-1
+Added Net: Name=NetJ9_4
+Added Pin To Net: NetName=NetJ10_4 Pin=J10-4
+Added Pin To Net: NetName=NetJ10_4 Pin=P10-1
+Added Net: Name=NetJ10_4
+Added Pin To Net: NetName=NetJ11_4 Pin=J11-4
+Added Pin To Net: NetName=NetJ11_4 Pin=P11-1
+Added Net: Name=NetJ11_4
+Added Pin To Net: NetName=NetJ12_4 Pin=J12-4
+Added Pin To Net: NetName=NetJ12_4 Pin=P12-1
+Added Net: Name=NetJ12_4
+Added Pin To Net: NetName=NetJ13_4 Pin=J13-4
+Added Pin To Net: NetName=NetJ13_4 Pin=P13-1
+Added Net: Name=NetJ13_4
+Added Pin To Net: NetName=NetJ14_4 Pin=J14-4
+Added Pin To Net: NetName=NetJ14_4 Pin=P14-1
+Added Net: Name=NetJ14_4
+Added Pin To Net: NetName=NetJ15_4 Pin=J15-4
+Added Pin To Net: NetName=NetJ15_4 Pin=P15-1
+Added Net: Name=NetJ15_4
+Added Pin To Net: NetName=NetJ16_4 Pin=J16-4
+Added Pin To Net: NetName=NetJ16_4 Pin=P16-1
+Added Net: Name=NetJ16_4

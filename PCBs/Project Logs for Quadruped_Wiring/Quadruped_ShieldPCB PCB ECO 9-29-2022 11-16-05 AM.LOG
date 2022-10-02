@@ -1,0 +1,370 @@
+Removed Pin From Net: NetName=GND Pin=I1-1
+Removed Pin From Net: NetName=SCL Pin=I1-3
+Removed Pin From Net: NetName=SDA Pin=I1-4
+Removed Pin From Net: NetName=+5 Pin=I1-5
+Removed Pin From Net: NetName=GND Pin=M1-1
+Removed Pin From Net: NetName=MSel2_1 Pin=M1-2
+Removed Pin From Net: NetName=FB1_in Pin=M1-7
+Removed Pin From Net: NetName=GND Pin=M1-8
+Removed Pin From Net: NetName=FB2_in Pin=M1-9
+Removed Pin From Net: NetName=MSel1_0 Pin=M1-14
+Removed Pin From Net: NetName=GND Pin=M1-15
+Removed Pin From Net: NetName=+5 Pin=M1-16
+Removed Pin From Net: NetName=GND Pin=M2-1
+Removed Pin From Net: NetName=MSel1_1 Pin=M2-2
+Removed Pin From Net: NetName=FB3_in Pin=M2-7
+Removed Pin From Net: NetName=GND Pin=M2-8
+Removed Pin From Net: NetName=FB4_in Pin=M2-9
+Removed Pin From Net: NetName=MSel2_0 Pin=M2-14
+Removed Pin From Net: NetName=GND Pin=M2-15
+Removed Pin From Net: NetName=+5 Pin=M2-16
+Removed Member From Class: ClassName=U_PWM_BoardSchem Member=I1
+Removed Member From Class: ClassName=U_PWM_BoardSchem Member=J2
+Removed Member From Class: ClassName=U_PWM_BoardSchem Member=J3
+Removed Member From Class: ClassName=U_PWM_BoardSchem Member=J4
+Removed Member From Class: ClassName=U_PWM_BoardSchem Member=J5
+Removed Member From Class: ClassName=U_PWM_BoardSchem Member=J6
+Removed Member From Class: ClassName=U_PWM_BoardSchem Member=J7
+Removed Member From Class: ClassName=U_PWM_BoardSchem Member=J8
+Removed Member From Class: ClassName=U_PWM_BoardSchem Member=J9
+Removed Member From Class: ClassName=U_PWM_BoardSchem Member=J10
+Removed Member From Class: ClassName=U_PWM_BoardSchem Member=J11
+Removed Member From Class: ClassName=U_PWM_BoardSchem Member=J12
+Removed Member From Class: ClassName=U_PWM_BoardSchem Member=J13
+Removed Member From Class: ClassName=U_PWM_BoardSchem Member=J14
+Removed Member From Class: ClassName=U_PWM_BoardSchem Member=J15
+Removed Member From Class: ClassName=U_PWM_BoardSchem Member=J16
+Removed Member From Class: ClassName=U_PWM_BoardSchem Member=M1
+Removed Member From Class: ClassName=U_PWM_BoardSchem Member=M2
+Removed Member From Class: ClassName=U_PWM_BoardSchem Member=P1
+Removed Member From Class: ClassName=U_PWM_BoardSchem Member=P2
+Removed Member From Class: ClassName=U_PWM_BoardSchem Member=P3
+Removed Member From Class: ClassName=U_PWM_BoardSchem Member=P4
+Removed Member From Class: ClassName=U_PWM_BoardSchem Member=P5
+Removed Member From Class: ClassName=U_PWM_BoardSchem Member=P6
+Removed Member From Class: ClassName=U_PWM_BoardSchem Member=P7
+Removed Member From Class: ClassName=U_PWM_BoardSchem Member=P8
+Removed Member From Class: ClassName=U_PWM_BoardSchem Member=P9
+Removed Member From Class: ClassName=U_PWM_BoardSchem Member=P10
+Removed Member From Class: ClassName=U_PWM_BoardSchem Member=P11
+Removed Member From Class: ClassName=U_PWM_BoardSchem Member=P12
+Removed Member From Class: ClassName=U_PWM_BoardSchem Member=P13
+Removed Member From Class: ClassName=U_PWM_BoardSchem Member=P14
+Removed Member From Class: ClassName=U_PWM_BoardSchem Member=P15
+Removed Member From Class: ClassName=U_PWM_BoardSchem Member=P16
+Added Component: Designator=IC?(SOP50P490X110-10N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheets.maximintegrated.com/en/ds/MAX4524L-MAX4525L.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Maxim Integrated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MAX4524LEUB+"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "700-MAX4524LEUB+"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Maxim-Integrated/MAX4524LEUB%2b?qs=Mc2rGIXtnyWlO7eYhLJKZQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC?(SOP50P490X110-10N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheets.maximintegrated.com/en/ds/MAX4524L-MAX4525L.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Maxim Integrated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MAX4524LEUB+"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "700-MAX4524LEUB+"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Maxim-Integrated/MAX4524LEUB%2b?qs=Mc2rGIXtnyWlO7eYhLJKZQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC?(SOP50P490X110-10N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheets.maximintegrated.com/en/ds/MAX4524L-MAX4525L.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Maxim Integrated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MAX4524LEUB+"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "700-MAX4524LEUB+"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Maxim-Integrated/MAX4524LEUB%2b?qs=Mc2rGIXtnyWlO7eYhLJKZQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC?(SOP50P490X110-10N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheets.maximintegrated.com/en/ds/MAX4524L-MAX4525L.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Maxim Integrated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MAX4524LEUB+"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "700-MAX4524LEUB+"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Maxim-Integrated/MAX4524LEUB%2b?qs=Mc2rGIXtnyWlO7eYhLJKZQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J?(B4BXHALFSN)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/b4b-xh-a-lf-sn/jst-manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/szlcsc/JST-Sales-America-B4B-XH-A-LF-SN_C144395.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "JST (JAPAN SOLDERLESS TERMINALS)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(B4BXHALFSN)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/b4b-xh-a-lf-sn/jst-manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/szlcsc/JST-Sales-America-B4B-XH-A-LF-SN_C144395.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "JST (JAPAN SOLDERLESS TERMINALS)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(B4BXHALFSN)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/b4b-xh-a-lf-sn/jst-manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/szlcsc/JST-Sales-America-B4B-XH-A-LF-SN_C144395.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "JST (JAPAN SOLDERLESS TERMINALS)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(B4BXHALFSN)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/b4b-xh-a-lf-sn/jst-manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/szlcsc/JST-Sales-America-B4B-XH-A-LF-SN_C144395.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "JST (JAPAN SOLDERLESS TERMINALS)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(B4BXHALFSN)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/b4b-xh-a-lf-sn/jst-manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/szlcsc/JST-Sales-America-B4B-XH-A-LF-SN_C144395.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "JST (JAPAN SOLDERLESS TERMINALS)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(B4BXHALFSN)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/b4b-xh-a-lf-sn/jst-manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/szlcsc/JST-Sales-America-B4B-XH-A-LF-SN_C144395.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "JST (JAPAN SOLDERLESS TERMINALS)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(B4BXHALFSN)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/b4b-xh-a-lf-sn/jst-manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/szlcsc/JST-Sales-America-B4B-XH-A-LF-SN_C144395.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "JST (JAPAN SOLDERLESS TERMINALS)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(B4BXHALFSN)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/b4b-xh-a-lf-sn/jst-manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/szlcsc/JST-Sales-America-B4B-XH-A-LF-SN_C144395.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "JST (JAPAN SOLDERLESS TERMINALS)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(B4BXHALFSN)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/b4b-xh-a-lf-sn/jst-manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/szlcsc/JST-Sales-America-B4B-XH-A-LF-SN_C144395.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "JST (JAPAN SOLDERLESS TERMINALS)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(B4BXHALFSN)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/b4b-xh-a-lf-sn/jst-manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/szlcsc/JST-Sales-America-B4B-XH-A-LF-SN_C144395.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "JST (JAPAN SOLDERLESS TERMINALS)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(B4BXHALFSN)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/b4b-xh-a-lf-sn/jst-manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/szlcsc/JST-Sales-America-B4B-XH-A-LF-SN_C144395.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "JST (JAPAN SOLDERLESS TERMINALS)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(815)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "815"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/815/adafruit-industries"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://cdn-shop.adafruit.com/datasheets/PCA9685.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Adafruit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "815"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "485-815"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Adafruit/815?qs=GURawfaeGuCGKbWyy9179Q%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=IC?-4
+Added Pin To Net: NetName=GND Pin=IC?-4
+Added Pin To Net: NetName=GND Pin=IC?-4
+Added Pin To Net: NetName=GND Pin=IC?-4
+Added Pin To Net: NetName=GND Pin=IC?-5
+Added Pin To Net: NetName=GND Pin=IC?-5
+Added Pin To Net: NetName=GND Pin=IC?-5
+Added Pin To Net: NetName=GND Pin=IC?-5
+Added Pin To Net: NetName=+5 Pin=IC?-10
+Added Pin To Net: NetName=+5 Pin=IC?-10
+Added Pin To Net: NetName=+5 Pin=IC?-10
+Added Pin To Net: NetName=+5 Pin=IC?-10
+Added Pin To Net: NetName=SDA Pin=U?-51
+Added Pin To Net: NetName=SCL Pin=U?-52
+Added Pin To Net: NetName=GND Pin=U?-54
+Added Pin To Net: NetName=GND Pin=U?-60
+Added Pin To Net: NetName=Leg1_fb0 Pin=IC?-8
+Added Pin To Net: NetName=Leg1_fb0 Pin=J1-1
+Added Net: Name=Leg1_fb0
+Added Pin To Net: NetName=Leg1_fb1 Pin=IC?-1
+Added Pin To Net: NetName=Leg1_fb1 Pin=J?-1
+Added Net: Name=Leg1_fb1
+Added Pin To Net: NetName=Leg1_fb2 Pin=IC?-3
+Added Pin To Net: NetName=Leg1_fb2 Pin=J?-1
+Added Net: Name=Leg1_fb2
+Added Pin To Net: NetName=Leg1_GND0 Pin=J1-4
+Added Pin To Net: NetName=Leg1_GND0 Pin=U?-33
+Added Net: Name=Leg1_GND0
+Added Pin To Net: NetName=Leg1_GND1 Pin=J?-4
+Added Pin To Net: NetName=Leg1_GND1 Pin=U?-34
+Added Net: Name=Leg1_GND1
+Added Pin To Net: NetName=Leg1_GND2 Pin=J?-4
+Added Pin To Net: NetName=Leg1_GND2 Pin=U?-35
+Added Net: Name=Leg1_GND2
+Added Pin To Net: NetName=Leg1_PWM0 Pin=J1-2
+Added Pin To Net: NetName=Leg1_PWM0 Pin=U?-1
+Added Net: Name=Leg1_PWM0
+Added Pin To Net: NetName=Leg1_PWM1 Pin=J?-2
+Added Pin To Net: NetName=Leg1_PWM1 Pin=U?-2
+Added Net: Name=Leg1_PWM1
+Added Pin To Net: NetName=Leg1_PWM2 Pin=J?-2
+Added Pin To Net: NetName=Leg1_PWM2 Pin=U?-3
+Added Net: Name=Leg1_PWM2
+Added Pin To Net: NetName=Leg1_V0 Pin=J1-3
+Added Pin To Net: NetName=Leg1_V0 Pin=U?-17
+Added Net: Name=Leg1_V0
+Added Pin To Net: NetName=Leg1_V1 Pin=J?-3
+Added Pin To Net: NetName=Leg1_V1 Pin=U?-18
+Added Net: Name=Leg1_V1
+Added Pin To Net: NetName=Leg1_V2 Pin=J?-3
+Added Pin To Net: NetName=Leg1_V2 Pin=U?-19
+Added Net: Name=Leg1_V2
+Added Pin To Net: NetName=Leg2_fb0 Pin=J?-1
+Added Net: Name=Leg2_fb0
+Added Pin To Net: NetName=Leg2_fb1 Pin=J?-1
+Added Net: Name=Leg2_fb1
+Added Pin To Net: NetName=Leg2_fb2 Pin=J?-1
+Added Net: Name=Leg2_fb2
+Added Pin To Net: NetName=Leg2_GND0 Pin=J?-4
+Added Pin To Net: NetName=Leg2_GND0 Pin=U?-37
+Added Net: Name=Leg2_GND0
+Added Pin To Net: NetName=Leg2_GND1 Pin=J?-4
+Added Pin To Net: NetName=Leg2_GND1 Pin=U?-38
+Added Net: Name=Leg2_GND1
+Added Pin To Net: NetName=Leg2_GND2 Pin=J?-4
+Added Pin To Net: NetName=Leg2_GND2 Pin=U?-39
+Added Net: Name=Leg2_GND2
+Added Pin To Net: NetName=Leg2_PWM0 Pin=J?-2
+Added Pin To Net: NetName=Leg2_PWM0 Pin=U?-5
+Added Net: Name=Leg2_PWM0
+Added Pin To Net: NetName=Leg2_PWM1 Pin=J?-2
+Added Pin To Net: NetName=Leg2_PWM1 Pin=U?-6
+Added Net: Name=Leg2_PWM1
+Added Pin To Net: NetName=Leg2_PWM2 Pin=J?-2
+Added Pin To Net: NetName=Leg2_PWM2 Pin=U?-7
+Added Net: Name=Leg2_PWM2
+Added Pin To Net: NetName=Leg2_V0 Pin=J?-3
+Added Pin To Net: NetName=Leg2_V0 Pin=U?-21
+Added Net: Name=Leg2_V0
+Added Pin To Net: NetName=Leg2_V1 Pin=J?-3
+Added Pin To Net: NetName=Leg2_V1 Pin=U?-22
+Added Net: Name=Leg2_V1
+Added Pin To Net: NetName=Leg2_V2 Pin=J?-3
+Added Pin To Net: NetName=Leg2_V2 Pin=U?-23
+Added Net: Name=Leg2_V2
+Added Pin To Net: NetName=Leg3_fb0 Pin=J?-1
+Added Net: Name=Leg3_fb0
+Added Pin To Net: NetName=Leg3_fb1 Pin=J?-1
+Added Net: Name=Leg3_fb1
+Added Pin To Net: NetName=Leg3_fb2 Pin=J?-1
+Added Net: Name=Leg3_fb2
+Added Pin To Net: NetName=Leg3_GND0 Pin=J?-4
+Added Pin To Net: NetName=Leg3_GND0 Pin=U?-41
+Added Net: Name=Leg3_GND0
+Added Pin To Net: NetName=Leg3_GND1 Pin=J?-4
+Added Pin To Net: NetName=Leg3_GND1 Pin=U?-42
+Added Net: Name=Leg3_GND1
+Added Pin To Net: NetName=Leg3_GND2 Pin=J?-4
+Added Pin To Net: NetName=Leg3_GND2 Pin=U?-43
+Added Net: Name=Leg3_GND2
+Added Pin To Net: NetName=Leg3_PWM0 Pin=J?-2
+Added Pin To Net: NetName=Leg3_PWM0 Pin=U?-9
+Added Net: Name=Leg3_PWM0
+Added Pin To Net: NetName=Leg3_PWM1 Pin=J?-2
+Added Pin To Net: NetName=Leg3_PWM1 Pin=U?-10
+Added Net: Name=Leg3_PWM1
+Added Pin To Net: NetName=Leg3_PWM2 Pin=J?-2
+Added Pin To Net: NetName=Leg3_PWM2 Pin=U?-11
+Added Net: Name=Leg3_PWM2
+Added Pin To Net: NetName=Leg3_V0 Pin=J?-3
+Added Pin To Net: NetName=Leg3_V0 Pin=U?-25
+Added Net: Name=Leg3_V0
+Added Pin To Net: NetName=Leg3_V1 Pin=J?-3
+Added Pin To Net: NetName=Leg3_V1 Pin=U?-26
+Added Net: Name=Leg3_V1
+Added Pin To Net: NetName=Leg3_V2 Pin=J?-3
+Added Pin To Net: NetName=Leg3_V2 Pin=U?-27
+Added Net: Name=Leg3_V2
+Added Pin To Net: NetName=Leg4_fb0 Pin=J?-1
+Added Net: Name=Leg4_fb0
+Added Pin To Net: NetName=Leg4_fb1 Pin=J?-1
+Added Net: Name=Leg4_fb1
+Added Pin To Net: NetName=Leg4_fb2 Pin=J?-1
+Added Net: Name=Leg4_fb2
+Added Pin To Net: NetName=Leg4_GND0 Pin=J?-4
+Added Pin To Net: NetName=Leg4_GND0 Pin=U?-45
+Added Net: Name=Leg4_GND0
+Added Pin To Net: NetName=Leg4_GND1 Pin=J?-4
+Added Pin To Net: NetName=Leg4_GND1 Pin=U?-46
+Added Net: Name=Leg4_GND1
+Added Pin To Net: NetName=Leg4_GND2 Pin=J?-4
+Added Pin To Net: NetName=Leg4_GND2 Pin=U?-47
+Added Net: Name=Leg4_GND2
+Added Pin To Net: NetName=Leg4_PWM0 Pin=J?-2
+Added Pin To Net: NetName=Leg4_PWM0 Pin=U?-13
+Added Net: Name=Leg4_PWM0
+Added Pin To Net: NetName=Leg4_PWM1 Pin=J?-2
+Added Pin To Net: NetName=Leg4_PWM1 Pin=U?-14
+Added Net: Name=Leg4_PWM1
+Added Pin To Net: NetName=Leg4_PWM2 Pin=J?-2
+Added Pin To Net: NetName=Leg4_PWM2 Pin=U?-15
+Added Net: Name=Leg4_PWM2
+Added Pin To Net: NetName=Leg4_V0 Pin=J?-3
+Added Pin To Net: NetName=Leg4_V0 Pin=U?-29
+Added Net: Name=Leg4_V0
+Added Pin To Net: NetName=Leg4_V1 Pin=J?-3
+Added Pin To Net: NetName=Leg4_V1 Pin=U?-30
+Added Net: Name=Leg4_V1
+Added Pin To Net: NetName=Leg4_V2 Pin=J?-3
+Added Pin To Net: NetName=Leg4_V2 Pin=U?-31
+Added Net: Name=Leg4_V2
+Added Pin To Net: NetName=NetIC?_6 Pin=IC?-6
+Added Net: Name=NetIC?_6
+Added Pin To Net: NetName=NetIC?_7 Pin=IC?-7
+Added Net: Name=NetIC?_7
+Added Pin To Net: NetName=NetIC?_9 Pin=IC?-9
+Added Net: Name=NetIC?_9
+Added Member To Class: ClassName=U_PWM_BoardSchem Member=Component IC? MAX4524LEUB+
+Added Member To Class: ClassName=U_PWM_BoardSchem Member=Component IC? MAX4524LEUB+
+Added Member To Class: ClassName=U_PWM_BoardSchem Member=Component IC? MAX4524LEUB+
+Added Member To Class: ClassName=U_PWM_BoardSchem Member=Component IC? MAX4524LEUB+
+Added Member To Class: ClassName=U_PWM_BoardSchem Member=Component J? B4B-XH-A_LF__SN_
+Added Member To Class: ClassName=U_PWM_BoardSchem Member=Component J? B4B-XH-A_LF__SN_
+Added Member To Class: ClassName=U_PWM_BoardSchem Member=Component J? B4B-XH-A_LF__SN_
+Added Member To Class: ClassName=U_PWM_BoardSchem Member=Component J? B4B-XH-A_LF__SN_
+Added Member To Class: ClassName=U_PWM_BoardSchem Member=Component J? B4B-XH-A_LF__SN_
+Added Member To Class: ClassName=U_PWM_BoardSchem Member=Component J? B4B-XH-A_LF__SN_
+Added Member To Class: ClassName=U_PWM_BoardSchem Member=Component J? B4B-XH-A_LF__SN_
+Added Member To Class: ClassName=U_PWM_BoardSchem Member=Component J? B4B-XH-A_LF__SN_
+Added Member To Class: ClassName=U_PWM_BoardSchem Member=Component J? B4B-XH-A_LF__SN_
+Added Member To Class: ClassName=U_PWM_BoardSchem Member=Component J? B4B-XH-A_LF__SN_
+Added Member To Class: ClassName=U_PWM_BoardSchem Member=Component J? B4B-XH-A_LF__SN_
+Added Member To Class: ClassName=U_PWM_BoardSchem Member=Component U? 815

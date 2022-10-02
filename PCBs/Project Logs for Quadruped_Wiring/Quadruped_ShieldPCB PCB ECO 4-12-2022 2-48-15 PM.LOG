@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=+5 Pin=3v3Reg-3
+Removed Pin From Net: NetName=+5 Pin=5V_Reg-2
+Removed Pin From Net: NetName=+5 Pin=HC-1-1
+Removed Pin From Net: NetName=+5 Pin=I1-5
+Removed Pin From Net: NetName=+5 Pin=LCD1-1
+Removed Pin From Net: NetName=+5 Pin=LCD1-15
+Removed Pin From Net: NetName=+5 Pin=M1-16
+Removed Pin From Net: NetName=+5 Pin=M2-16
+Removed Pin From Net: NetName=+5 Pin=MPU_L1-1
+Removed Pin From Net: NetName=+5 Pin=R5-1
+Removed Member From Class: ClassName=U_PWM_BoardSchem Member=J17
+Removed Member From Class: ClassName=U_PWM_BoardSchem Member=J18
+Removed Member From Class: ClassName=U_LCD_Schem Member=R3
+Change Net Name : Old Net Name=+5 New Net Name=GND
+Added Pin To Net: NetName=+5 Pin=3v3Reg-3
+Added Pin To Net: NetName=+5 Pin=5V_Reg-2
+Added Pin To Net: NetName=+5 Pin=HC-1-1
+Added Pin To Net: NetName=+5 Pin=I1-5
+Added Pin To Net: NetName=+5 Pin=LCD1-1
+Added Pin To Net: NetName=+5 Pin=LCD1-15
+Added Pin To Net: NetName=+5 Pin=M1-16
+Added Pin To Net: NetName=+5 Pin=M2-16
+Added Pin To Net: NetName=+5 Pin=MPU_L1-1
+Added Pin To Net: NetName=+5 Pin=R5-1
+Added Net: Name=+5
+Added Member To Class: ClassName=U_PWM_BoardSchem Member=Component J1 B4P-VH-FB-B_LF__SN_
+Added Member To Class: ClassName=U_PWM_BoardSchem Member=Component J2 B4P-VH-FB-B_LF__SN_
+Added Member To Class: ClassName=U_LCD_Schem Member=Component R5 Res1

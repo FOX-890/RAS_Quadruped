@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=Leg1_fb2 Pin=U1-3
+Removed Pin From Net: NetName=Leg1_fb0 Pin=U1-8
+Added Pin To Net: NetName=Leg1_fb0 Pin=U1-3
+Added Pin To Net: NetName=Leg1_fb2 Pin=U1-8
+Added Member To Class: ClassName=U_Power_Circuit Member=Component U7 LD1117
+Added Room: Name=Main_Board
+Added Room: Name=U_MPU_Schem
+Added Room: Name=U_PWM_BoardSchem

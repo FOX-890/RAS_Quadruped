@@ -1,0 +1,4 @@
+Change Managed Component Library Link : Designator=C1 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=88F03D14-E60C-4B04-8FBC-63842C6B306F Old RevisionGUID= New RevisionGUID=C62A4C4F-F3AF-4281-820C-2BBEF536B8A9
+Change component parameters: Designator = "C1" ("C1"); Footprint = "CAPR5-4X5"; UniqueID = "\NDLVYYLX\HEVYLWWF" ("\NDLVYYLX\HEVYLWWF")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "GRM1885C1H101JA01D"; VariantName = "[No Variations]"

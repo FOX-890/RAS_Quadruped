@@ -1,0 +1,29 @@
+Remove Pin=J1-4 From Net=Leg1_GND0
+Remove Pin=J2-4 From Net=Leg2_GND0
+Remove Pin=J3-4 From Net=Leg1_GND1
+Remove Pin=J4-4 From Net=Leg2_GND1
+Remove Pin=J5-4 From Net=Leg1_GND2
+Remove Pin=J6-4 From Net=Leg2_GND2
+Remove Pin=J7-4 From Net=Leg3_GND0
+Remove Pin=J8-4 From Net=Leg4_GND0
+Remove Pin=J9-4 From Net=Leg3_GND1
+Remove Pin=J10-4 From Net=Leg4_GND1
+Remove Pin=J11-4 From Net=Leg3_GND2
+Remove Pin=J12-4 From Net=Leg4_GND2
+Remove Pin=U2-33 From Net=Leg1_GND0
+Remove Pin=U2-34 From Net=Leg1_GND1
+Remove Pin=U2-35 From Net=Leg1_GND2
+Remove Pin=U2-37 From Net=Leg2_GND0
+Remove Pin=U2-38 From Net=Leg2_GND1
+Remove Pin=U2-39 From Net=Leg2_GND2
+Remove Pin=U2-41 From Net=Leg3_GND0
+Remove Pin=U2-42 From Net=Leg3_GND1
+Remove Pin=U2-43 From Net=Leg3_GND2
+Remove Pin=U2-45 From Net=Leg4_GND0
+Remove Pin=U2-46 From Net=Leg4_GND1
+Remove Pin=U2-47 From Net=Leg4_GND2
+Change Component Designator: OldDesignator=Arduino Mega NewDesignator=
+Change Component Designator: OldDesignator=MPU_L1 NewDesignator=
+Change Component Designator: OldDesignator=MPU_R1 NewDesignator=MPU
+Change Pin Designator/Name:  Old Designator=U3-1 Old Name=NO2 New Designator =NO0 New Name=8
+Change Pin Designator/Name:  Old Designator=U3-8 Old Name=NO0 New Designator =NO2 New Name=1

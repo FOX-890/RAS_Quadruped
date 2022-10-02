@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=Leg2_fb2 Pin=U3-1
+Removed Pin From Net: NetName=Leg2_fb1 Pin=U3-3
+Removed Pin From Net: NetName=Leg2_fb0 Pin=U3-8
+Added Pin To Net: NetName=Leg2_fb1 Pin=U3-1
+Added Pin To Net: NetName=Leg2_fb0 Pin=U3-3
+Added Pin To Net: NetName=Leg2_fb2 Pin=U3-8
+Added Room: Name=Main_Board
+Added Room: Name=U_MPU_Schem
+Added Room: Name=U_PWM_BoardSchem

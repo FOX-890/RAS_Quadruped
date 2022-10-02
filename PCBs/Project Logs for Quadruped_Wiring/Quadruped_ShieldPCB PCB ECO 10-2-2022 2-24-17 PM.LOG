@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=GND Pin=J1-4
+Removed Pin From Net: NetName=GND Pin=J2-4
+Removed Pin From Net: NetName=GND Pin=J3-4
+Removed Pin From Net: NetName=GND Pin=J4-4
+Removed Pin From Net: NetName=GND Pin=J5-4
+Removed Pin From Net: NetName=GND Pin=J6-4
+Removed Pin From Net: NetName=GND Pin=J7-4
+Removed Pin From Net: NetName=GND Pin=J8-4
+Removed Pin From Net: NetName=GND Pin=J9-4
+Removed Pin From Net: NetName=GND Pin=J10-4
+Removed Pin From Net: NetName=GND Pin=J11-4
+Removed Pin From Net: NetName=GND Pin=J12-4
+Removed Pin From Net: NetName=Leg4_fb2 Pin=U5-1
+Removed Pin From Net: NetName=Leg4_fb0 Pin=U5-8
+Added Pin To Net: NetName=Leg4_fb0 Pin=U5-1
+Added Pin To Net: NetName=Leg4_fb2 Pin=U5-8
+Added Room: Name=Main_Board
+Added Room: Name=U_MPU_Schem
+Added Room: Name=U_PWM_BoardSchem
