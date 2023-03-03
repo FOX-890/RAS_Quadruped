@@ -1,0 +1,3 @@
+Length: 143mm
+Width: 50.2mm
+Height: 30mm
